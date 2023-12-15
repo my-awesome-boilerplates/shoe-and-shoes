@@ -41,11 +41,11 @@ You can deploy the project to any web hosting platform that supports Python and 
 
 
 ## Live Demo
-**Homepage:** https://www.shoeandshoes.com
+**Homepage:** [https://www.shoeandshoes.com](https://www.shoeandshoes.com){:target="_blank"}
 
-**Product Category Page:** https://www.shoeandshoes.com/product-category/lifestyle-shoes
+**Product Category Page:** [https://www.shoeandshoes.com/product-category/lifestyle-shoes](https://www.shoeandshoes.com/product-category/lifestyle-shoes){:target="_blank"}
 
-**Product Details Page:** https://www.shoeandshoes.com/product/lifestyle-shoes/steve-madden-women-s-charlie-sneaker-rose-gold-7-5
+**Product Details Page:** [https://www.shoeandshoes.com/product/lifestyle-shoes/steve-madden-women-s-charlie-sneaker-rose-gold-7-5](https://www.shoeandshoes.com/product/lifestyle-shoes/steve-madden-women-s-charlie-sneaker-rose-gold-7-5){:target="_blank"}
 
 
 ## License
